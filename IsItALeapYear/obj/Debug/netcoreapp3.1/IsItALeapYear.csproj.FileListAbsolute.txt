@@ -1,0 +1,13 @@
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.exe
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.deps.json
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.dev.json
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csprojAssemblyReference.cache
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfo.cs
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\ammuj\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.genruntimeconfig.cache
